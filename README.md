@@ -225,10 +225,5 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 **A:** Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages.
 ##
-### Support
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-Contributions, issues, and feature requests are welcome!  
-Give a ★ if you like this project!
-
-<p align="right"> Last FAQ Update: 08.08.2021 </p>
+<p align="right"> Last FAQ Update: 27.02.2023 </p>
